@@ -1,4 +1,6 @@
 # tcmu-runner
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbozhou2010%2Ftcmu-runner.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbozhou2010%2Ftcmu-runner?ref=badge_shield)
+
 
 A daemon that handles the userspace side of the LIO TCM-User backstore.
 
@@ -19,6 +21,9 @@ One goal of TCMU is that configuring a userspace-backed LUN should be as easy as
 ### License
 
 tcmu-runner is LGPLv2.1 or Apache License 2.0.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbozhou2010%2Ftcmu-runner.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbozhou2010%2Ftcmu-runner?ref=badge_large)
 
 ### Releases
 
